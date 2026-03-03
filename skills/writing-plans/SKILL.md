@@ -96,13 +96,15 @@ Run: (same test as before)
 Expected: PASS
 
 **Step 5: Commit**
-Add the files you've created and updated
+Add the files you've created and updated `git add -u` and `git add <specific new file>`
 Call `git commit -m "<a short but descriptive implementation message>"`
+## Disclaimer
 - Do not make the message too long
 - ** DO NOT PROCEED IF YOU ENCOUNTER GIT ERRORS **
 - Never run anything other than git add and commit.
 - Never re-initialize the branch. There should be nothing out of the ordinary here.
 - You should never proceed if we see a problem.
+- Do not commit implementation plans
 ```
 
 
