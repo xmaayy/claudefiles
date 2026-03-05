@@ -1,6 +1,10 @@
 {
+  "includeCoAuthoredBy": false,
+  "enabledPlugins": {
+    "rust-analyzer-lsp@claude-plugins-official": true
+  },
+  "skipDangerousModePermissionPrompt": true,
   "feedbackSurveyState": {
     "lastShownTime": 1753979893053
-  },
-  "includeCoAuthoredBy": false
+  }
 }
